@@ -1,6 +1,4 @@
-/* 
-	Author : Samir Paul
-*/
+
 
 /// min heap implementation 
 class MinHeap {
